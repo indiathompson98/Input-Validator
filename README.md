@@ -4,6 +4,7 @@ This program simulates a telephone address book where a user should be able to i
 No dependency required.
 Commands to run are:
     javac PhoneBook.java
+    java PhoneBook
 
 
 Sample Inputs –
